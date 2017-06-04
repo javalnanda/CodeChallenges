@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='LeftRotation'/>
+        <page name='MakingAnagrams'/>
+        <page name='RansomeNote'/>
+        <page name='Phone_Book'/>
+        <page name='FindFactorial'/>
+        <page name='balancedBracket'/>
+        <page name='PrintEvenOddIndex'/>
+    </pages>
+</playground>
