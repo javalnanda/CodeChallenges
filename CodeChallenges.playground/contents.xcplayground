@@ -6,7 +6,8 @@
         <page name='RansomeNote'/>
         <page name='Phone_Book'/>
         <page name='FindFactorial'/>
-        <page name='balancedBracket'/>
         <page name='PrintEvenOddIndex'/>
+        <page name='Balanced_Bracket'/>
+        <page name='Palindrome'/>
     </pages>
 </playground>
