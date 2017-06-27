@@ -9,5 +9,10 @@
         <page name='PrintEvenOddIndex'/>
         <page name='Balanced_Bracket'/>
         <page name='Palindrome'/>
+        <page name='Median'/>
+        <page name='BinarySearchTree_FindHeight'/>
+        <page name='LevelOrderTraversal(BSF)'/>
+        <page name='RemoveDuplicates'/>
+        <page name='PrimeNumber'/>
     </pages>
 </playground>
